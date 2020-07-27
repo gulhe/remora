@@ -1,0 +1,10 @@
+{
+    "name": "maven",
+    "group": "beguj",
+    "version": "1.0.2-alpine",
+    "repository": "host-addresse-compliquée:portALaCon",
+    "tests": [
+        {"cmd":"echo lol", "expected": "lol"},
+        {"cmd":"echo pouet", "expected": "pouet"}
+    ]
+}
